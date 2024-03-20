@@ -1,0 +1,33 @@
+h1 {
+    color: white;
+    font-size: 32px;
+} 
+
+h2 {
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+}
+h2 {
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+}
+h3 {
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+}
+h2 {
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+}
+p {
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+}
+body {
+    background-image: linear-gradient(to left, rgb(104, 4, 4), rgb(0, 0, 0));
+}
+
+h4 {
+color: snow;
+font-size: 22px;
+}
